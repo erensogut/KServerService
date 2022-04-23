@@ -1,0 +1,10 @@
+
+bin/Debug/net6.0/appsettings.json
+*.dll
+bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages

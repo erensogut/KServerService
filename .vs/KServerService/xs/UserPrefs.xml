@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{1DCBF951-D16D-451B-8D46-A9B0E95E21AC}|Crea_Demo">
+  <MonoDevelop.Ide.ItemProperties.KServerService PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/FileController.cs">
+    <Files>
+      <File FileName="Controllers/AuthController.cs" Line="74" Column="80" />
+      <File FileName="Domain/Entities/User.cs" Line="8" Column="18" />
+      <File FileName="Controllers/FileController.cs" Line="22" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KServerService" expanded="True">
+            <Node name="KServerService" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Domain" expanded="True">
+                <Node name="Entities" expanded="True" />
+                <Node name="Model" expanded="True" />
+              </Node>
+              <Node name="Infrastructure" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
