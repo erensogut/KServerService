@@ -6,6 +6,5 @@
 	 - User : `MYUSER`  
 	 - Password : `String1@` 
  -  You can also create/register new user. (The password must contain 1 capitalise,1 number and 1 special at least) There is a swagger in order to use api visually. 
- 
-	
+ - You can find example json file as sample3.json. You can upload it from Swagger.
 
